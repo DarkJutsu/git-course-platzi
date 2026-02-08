@@ -2,4 +2,5 @@
 Curso de Git - Platzi
 
 My first loca contribution for GitHub
-one more commit from GitHub
+
+One more commit from GitHub
